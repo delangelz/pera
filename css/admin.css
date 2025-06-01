@@ -1,0 +1,16 @@
+.admin-section {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+#add-product-form,
+#add-user-form {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #eef;
+    /* Light blue background for forms */
+    border-radius: 5px;
+}
